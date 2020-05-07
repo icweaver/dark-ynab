@@ -122,6 +122,10 @@ text > tspan {
     border-left-color: rgb(72, 72, 75);
 }
 
+.ynab-new-inspector-goals-view-goal-needed-weekly .goal-message {
+    background-color: #e59100;
+}
+
 .inspector-message.positive {
     background-color: #16a33640;
 }
