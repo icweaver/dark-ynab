@@ -107,7 +107,7 @@ text > tspan {
 }
 
 .ynab-grid .ynab-grid-body-row:nth-of-type(odd):not(.is-scheduled):not(.is-checked):not(.is-editing):not(.ynab-grid-body-empty):not(.ynab-grid-actions) {
-    background-color: var(--default_background);
+    background-color: #282828;
 }
 
 .ynab-checkbox-button-square {
