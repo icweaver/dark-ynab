@@ -110,6 +110,10 @@ text > tspan {
     background-color: var(--default_background);
 }
 
+.ynab-grid-body-row .ynab-grid-cell-balance .currency.negative {
+    color: #d33c2d;
+}
+
 .ynab-checkbox-button-square {
     background-color: rgb(24, 26, 27);
     border-top-color: rgb(72, 72, 75);
