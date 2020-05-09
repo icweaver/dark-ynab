@@ -89,14 +89,6 @@ optgroup {
     background-color: var(--header_background);
 }
 
-.percent-sign,
-.percent,
-.percent-label,
-.chart,
-.highcharts-title {
-    fill: var(--default-text) !important;
-}
-
 text > tspan {
     color: var(--default_text);
     fill: var(--default_text);
